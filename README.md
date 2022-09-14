@@ -7,7 +7,9 @@
   <a href="https://www.linkedin.com/in/bruno-costa-3238161b5/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-<h3>I currently have goals to become a FULLSTACK developer.</h3>
+<h3>I currently have goals to improve my FULLSTACK developer skills.</h3>
+
+- Working with Salesforce
 
 <h4>I can consider myself a prudent person, knowing the risks before defining my actions. In areas such as logistics or production, for example, I can work with methodologies that allow me to anticipate scenarios and avoid problems, which will probably be comfortable for me. In these areas I can highlight myself by my organization characteristics, process vision and cooperative profile.</h4>
 
