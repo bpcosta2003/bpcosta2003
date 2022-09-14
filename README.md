@@ -7,9 +7,7 @@
   <a href="https://www.linkedin.com/in/bruno-costa-3238161b5/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-<h3>I currently have goals to improve my FULLSTACK developer skills.</h3>
-
-- Working with Salesforce
+<h3>I'm currently working with Salesforce, and my actual goal is to improve my FULLSTACK development skills.</h3>
 
 <h4>I can consider myself a prudent person, knowing the risks before defining my actions. In areas such as logistics or production, for example, I can work with methodologies that allow me to anticipate scenarios and avoid problems, which will probably be comfortable for me. In these areas I can highlight myself by my organization characteristics, process vision and cooperative profile.</h4>
 
@@ -22,7 +20,10 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bpcosta2003&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bpcosta2003&layout=compact&langs_count=7&theme=dark"/>
 </div>
-<div style="display: inline_block"><br>
+
+</br>
+  
+<div style="display: inline_block">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -30,7 +31,8 @@
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="NextJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
-  <img align="center" alt="NextJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+  <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+  <img align="center" alt="Salesforce" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg">
 </div>
 
   
