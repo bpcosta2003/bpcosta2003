@@ -11,7 +11,7 @@
 
 <h4>I can consider myself a prudent person, knowing the risks before defining my actions. In areas such as logistics or production, for example, I can work with methodologies that allow me to anticipate scenarios and avoid problems, which will probably be comfortable for me. In these areas I can highlight myself by my organization characteristics, process vision and cooperative profile.</h4>
 
-<h5>"For me the mistake is a learning, I work a lot to know how to deal with them."</h5>
+<h5><i>"For me the mistake is a learning, I work a lot to know how to deal with them."</i></h5>
 
 ###
 
